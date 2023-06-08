@@ -9,7 +9,7 @@
 
 ### 2. перейдите в директорию проекта
 
-    $ cd Bewise2
+    $ cd Bewise
 
 ### 3. Запустите docker-compose
 
